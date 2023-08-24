@@ -4,9 +4,11 @@
     background-position: center top;
     background-size: cover;
 }
-#big text {
-    font-family: Nunito Sans;
-    font-size: large;
-    color: black;
-    
+
+.class hero-title {
+    font-size: 60px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    max-width: 50%;
 }
