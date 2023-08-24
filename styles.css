@@ -1,1 +1,6 @@
-
+#start picture {
+    height: 800px;
+    background-color: red;
+    background-position: center top;
+    background-size: cover;
+}
